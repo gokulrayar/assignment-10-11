@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\bin\Debug\method and parameters-salary employee.exe.config
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\bin\Debug\method and parameters-salary employee.exe
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\bin\Debug\method and parameters-salary employee.pdb
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\obj\Debug\method and parameters-salary employee.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\obj\Debug\method and parameters-salary employee.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\obj\Debug\method and parameters-salary employee.exe
+C:\Users\rayar\source\repos\method and parameters-salary employee\method and parameters-salary employee\obj\Debug\method and parameters-salary employee.pdb
